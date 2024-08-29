@@ -10,7 +10,7 @@ dependencies:
 
   # Other user-facing Python packages
   - altair==4.2.2
-  - bash_kernel==0.9.0
+  - bash_kernel==0.9.3
   - beautifulsoup4==4.11.1
   - black==22.12.0
   - bokeh==2.4.3
