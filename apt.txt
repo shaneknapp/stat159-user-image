@@ -82,12 +82,14 @@ multitail
 
 ## This section adds tools for desktop environment usage
 dbus-x11
+xfce4
+xfce4-panel
+xfce4-session
+xfce4-settings
 xorg
 xubuntu-icon-theme
-xfce4
-xfce4-goodies
-xclip
-xsel
+tigervnc-standalone-server
+
 firefox
 chromium-browser
 
