@@ -124,6 +124,7 @@ dependencies:
   # Packages that could be installed via the system package manager
   # (apt, homebrew, etc) but we bring them through here for better
   # reproducibility
+  - diffr==0.1.5
   - pandoc==3.7.0.2
   - pandocfilters==1.5.0
 
