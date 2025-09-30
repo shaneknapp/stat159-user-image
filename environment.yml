@@ -1,6 +1,7 @@
 name: stat159
 
 channels:
+  - conda-forge/label/jupyter-ai_rc
   - conda-forge
 
 dependencies:
@@ -30,6 +31,7 @@ dependencies:
   - pystac-client==0.8.6
   - rasterstats==0.20.0
   - rioxarray==0.19.0
+  - jupyter-ai==3.0.0b7
 
   # other packages
   - altair==5.5.0
@@ -68,7 +70,7 @@ dependencies:
   - jupyterlab-lsp==5.1.1
   - jupyterlab-spellchecker==0.8.4
   - jupyterlab-variableinspector==3.2.4
-  - jupytext==1.17.2
+  # - jupytext==1.17.2
   - latexmk==4.86a
   - matplotlib-inline==0.1.7
   - matplotlib==3.10.3
