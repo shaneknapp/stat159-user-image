@@ -43,7 +43,6 @@ dependencies:
   - cython==3.1.1
   - dask-labextension==7.0.0
   - dask==2025.5.1
-  - datascience==0.17.6
   - duckdb-engine==0.15.0
   - exactextract==0.2.2
   - fortran-magic==0.9
@@ -161,3 +160,6 @@ dependencies:
 
     # Needed for RTC on NFS-backed hubs
     #- git+https://github.com/berkeley-dsep-infra/tmpystore.git@84765e1
+
+  # DH - 557 
+    - datascience==0.18.0
