@@ -138,7 +138,6 @@ dependencies:
   # comment these out (but not the pip section below)
 
   - ipytest==0.14.2
-  - jupysql==0.11.1
   - jupyter-server-proxy==4.4.0
   - jupyter-syncthing-proxy==1.0.3 # syncthing for dropbox-like functionality
   - micro==2.0.14
